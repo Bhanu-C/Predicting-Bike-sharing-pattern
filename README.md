@@ -1,2 +1,2 @@
-# Predicting-Bike-sharing-pattern
-Project to deal efficiently the sharing of bikes using Deep Learning
+# project-bike-sharing
+Udacity Deep Learning nanodegree `Bike sharing patterns` project 
